@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀  I’m interested in Backend & Frontend<br><br>💬  Ask me about Python and Django</p>
+<p align="left">👀  I’m interested in Backend technologies<br><br>💬  Ask me about Python and Django</p>
 
 ###
 
